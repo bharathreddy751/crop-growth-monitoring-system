@@ -41,8 +41,8 @@ Transfer learning is used to improve efficiency and performance.
 ---
 
 ## 📂 Project Structure
-crop-growth-monitoring-system/
-│
+crop-growth-monitoring-system/<br>
+│<br>
 ├── classifier/ # ML model related files <br>
 │ ├── predict_vit.py <br>
 │ ├── train_vit.py<br>
