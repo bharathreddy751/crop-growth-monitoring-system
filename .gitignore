@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Django
+db.sqlite3
+media/
+
+# Dataset
+sunflowerdataset/
+sunflowerdiseasedataset/
+disease_split/
+
+# Model weights
+*.pt
+*.pth
+*.safetensors
+
+# VS Code
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+.env
