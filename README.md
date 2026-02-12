@@ -43,18 +43,18 @@ Transfer learning is used to improve efficiency and performance.
 ## 📂 Project Structure
 crop-growth-monitoring-system/
 │
-├── classifier/ # ML model related files
-│ ├── predict_vit.py
-│ ├── train_vit.py
-│ ├── train_disease_vit.py
-│
-├── templates/ # HTML templates
-│ ├── index.html
-│ ├── result.html
-│
-├── static/ # CSS, JS, Images
-│
-├── manage.py # Django project manager
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore # Ignored files
+├── classifier/ # ML model related files <br>
+│ ├── predict_vit.py <br>
+│ ├── train_vit.py<br>
+│ ├── train_disease_vit.py<br>
+│<br>
+├── templates/ # HTML templates<br>
+│ ├── index.html<br>
+│ ├── result.html<br>
+│<br>
+├── static/ # CSS, JS, Images<br>
+│<br>
+├── manage.py # Django project manager<br>
+├── requirements.txt # Python dependencies<br>
+├── README.md # Project documentation<br>
+└── .gitignore # Ignored files<br>
